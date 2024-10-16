@@ -24,3 +24,6 @@ Future Improvements
 Add functionality for payment processing.
 Enhance the admin panel for better product management.
 Implement user roles and permissions.
+
+
+https://manage-invetory-e-com.vercel.app/login
